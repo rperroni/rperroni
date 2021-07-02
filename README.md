@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rperroni
 - 👀 I’m interested in C/C++, Python, CSS, HTML
 - 🌱 I’m currently learning C++
-- 📫 How to reach me ...
+- 📫 How to reach me rperroni@fi.uba.ar
 
 <!---
 rperroni/rperroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
