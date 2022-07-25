@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rperroni
 - 👀 I’m interested in C/C++, Python, CSS, HTML
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Java
 - 📫 How to reach me rperroni@fi.uba.ar
 
 <!---
