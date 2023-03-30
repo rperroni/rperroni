@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rperroni
-- 👀 I’m interested in C/C++, Python, CSS, HTML
+- 👋 Hi, I’m Rocío Perroni
+- 👀 I’m interested in C/C++, Python, CSS, HTML, Java, JavaScript
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Java
 - 📫 How to reach me rperroni293@gmail.com
 
